@@ -317,7 +317,8 @@ Abdullah Ghufran
 
 Aspiring Data Scientist | Data Analyst | Python Developer | Machine Learning Enthusiast
 
-📧 Email: your-email@example.com
+📧 Email: abdullahghufran2001@gmail.com
+
 
 🌐 GitHub: abdullahghufran2001-hub
 
